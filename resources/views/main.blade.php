@@ -4,7 +4,7 @@
 <h3>Porgram Domino</h3>
 
 <div class="container">
-   <a href="/naped-1tona"><button type="button" class="btn btn-primary">1 tona paliwa możliwości</button></a>
+   <a href="/fuel-1tona"><button type="button" class="btn btn-primary">1 tona paliwa możliwości</button></a>
 
 </div>
 
